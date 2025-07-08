@@ -41,10 +41,6 @@ Portfolio/
 
 2. Open `index.html` in your preferred web browser.
 
-## 📸 Preview
-
-*Add screenshot or link to live demo here (if available)*
-
 ## 📄 Resume
 
 You can view or download the resume:
